@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "Undoing all evil!"
-mv /bin/ls_orig /bin/ls
+echo "Mischief managed!"
+mv /bin/ls.orig /bin/ls
+mv /usr/bin/emacs.orig /usr/bin/emacs
+mv /usr/bin/java.orig /usr/bin/java
